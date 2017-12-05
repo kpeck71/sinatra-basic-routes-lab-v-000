@@ -10,7 +10,7 @@ class App < Sinatra::Base
 
   end
 
-  get '/name' do
+  get '/favorite_song' do
 
   end
 end
